@@ -48,7 +48,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   intro: {fileID: 8300000, guid: d21d98a9b28af4a4ab4175bedc4358d2, type: 3}
   loop: {fileID: 8300000, guid: 056e080f6434f1749aba4e50301f13fe, type: 3}
-  fadeOutDuration: 2
+  fadeDuration: 2
+  globalBackground: 1
 --- !u!82 &5330407811240392375
 AudioSource:
   m_ObjectHideFlags: 0
