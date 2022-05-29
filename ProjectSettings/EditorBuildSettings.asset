@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TitleScreen.unity
+    path: Assets/Scenes/Main/TitleScreen/TitleScreen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/NameInput.unity
+    path: Assets/Test Stuff/CharacterAnimationTest.unity
     guid: 5be7df0e70a84a04fb7b2132cd9e8027
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 635a29418a308c248bf92e3b649426fd, type: 2}

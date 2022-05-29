@@ -22,6 +22,14 @@ MonoBehaviour:
     m_Localized: Jouer
     m_Metadata:
       m_Items: []
+  - m_Id: 1743274201563136
+    m_Localized: Votre nom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745152910016512
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -19,6 +19,14 @@ MonoBehaviour:
     m_Key: TitleScreen/UI Canvas/Button/Text (TMP)
     m_Metadata:
       m_Items: []
+  - m_Id: 1743274201563136
+    m_Key: NameInput/Canvas/NameInput/Text Area/Placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745152910016512
+    m_Key: NameInput/Canvas/Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

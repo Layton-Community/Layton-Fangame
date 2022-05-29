@@ -22,6 +22,14 @@ MonoBehaviour:
     m_Localized: Play
     m_Metadata:
       m_Items: []
+  - m_Id: 1743274201563136
+    m_Localized: Your name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745152910016512
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
