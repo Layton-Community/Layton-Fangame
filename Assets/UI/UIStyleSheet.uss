@@ -1,7 +1,0 @@
-Button.playButton {
-    background-image: resource("Assets/Test Stuff/Dog.jpg");
-}
-
-Button.playButton:hover {
-    background-image: resource("Assets/Test Stuff/sea_stars.jpg");
-}
