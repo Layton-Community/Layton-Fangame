@@ -14,6 +14,8 @@ Make sure you have [Git LFS too](https://git-lfs.github.com/). If you used the G
 
 Creating an ssh key is tricky for new users. So download [Github Desktop](https://desktop.github.com/), link it to your github account, it will automatically ssh for you and serve as a git repository manager.
 
+If you don't have access to the main repository, fork it, create a new branch, work on it and request a pull request.
+
 In the Unity Hub, switch the "Projects" tab, click "Add project from disk" and point to the repository where you cloned this repo.
 
 You're now ready to open the project! Open it and have fun!
