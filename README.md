@@ -4,19 +4,27 @@ A Layton Fangame built with the [Unity Engine](https://unity.com).
 
 ## Getting started
 
-Start by installing the Unity Hub if you don't have it yet: https://unity.com/download
-
-Then, install the Unity Editor with the Unity Hub. Make sure to pick version **2021.3.1f1**.
-
-If you don't have it yet, install [Git](https://git-scm.com/) on your machine too.<br>
-Or open the `Command Prompt` and type `winget install -e --id Git.Git` <br>
-Make sure you have [Git LFS too](https://git-lfs.github.com/). If you used the Git installer on Windows, it's installed by default (same with winget).
+### Install Github Desktop
 
 Creating an ssh key is tricky for new users. So download [Github Desktop](https://desktop.github.com/), link it to your github account, it will automatically ssh for you and serve as a git repository manager.
 
+### Download Unity Hub
+
+Start by installing the [Unity Hub](https://unity.com/download).<br>
+Then, install the Unity Editor with the Unity Hub. Make sure to pick version **2021.3.1f1**.
+
+### Install Visual Studio Community 2022
+
+- You can choose any IDE, but for simplicity, we will install [Visual Studio](https://visualstudio.microsoft.com/).
+- A window opens, named: Installation --- Visual Studio Community 2022
+- Select `.NET desktop development` and `Game development with Unity`.
+- Click on `Install`.
+
+### Clone the repository
+
 If you don't have access to the main repository, fork it, create a new branch, work on it and request a pull request.
 
-In the Unity Hub, switch the "Projects" tab, click "Add project from disk" and point to the repository where you cloned this repo.
+In the Unity Hub, switch the "Projects" tab, click "Add project from disk" and point to the repository where you cloned this repository.
 
 You're now ready to open the project! Open it and have fun!
 
@@ -28,13 +36,13 @@ Useful Unity Resources:
 
 Thank you for considering contributing to the project, we're glad you're willing to help!
 
-We recommend joining the Discord Server to discuss your changes with the community: https://discord.gg/zaRXcCFYE7. The #programming channel is where most technical discussions take place.
+We recommend joining the [Discord Server](https://discord.gg/zaRXcCFYE7) to discuss your changes with the community. The `#programming` channel is where most technical discussions take place.
 
 Feel free to fork this project, make contributions on your side then open a pull request targeting the `main` branch to submit your contributions.
 
 > **Legal note**: By opening a pull request to this repository, you agree to license your work under the terms explained in the "Licensing" section of the [README](README.md) file at the root of the project.
 
-We will happily add you to the organization and grant you write access to the repo after your first significant contributions (that is, adding a comma or fixing a typo doesn't count :P).
+We will happily add you to the organization and grant you write access to the repo after your first significant contributions (that is, adding a comma or fixing a typo doesn't count 😜).
 
 We strive to be a welcoming open source community. If you feel uncomfortable, please contact a team member in private, we will do our best to make sure everyone here has a great time.
 
