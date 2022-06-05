@@ -58,3 +58,13 @@ Unless explicitely stated, the resources of this project use one of the followin
 All product names, trademarks and registered trademarks / copyrights are properties of their respective owners. All company, product and service names used in this project are for identification purposes only. Use of these names, trademarks / copyrights and brands does not imply endorsement.
 
 External contributors agree to license their works under the aforementionned license when contributing to this repository (opening a Pull Request for example).
+
+## Contributors ✨
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/TPXP"><img src="https://avatars.githubusercontent.com/u/7191841" width="100px;" alt=""/><br/><sub><b>Thomas P.</b></sub></a><br/><a href="" title="Code">💻</a><a href="" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/MrPhnix"><img src="https://avatars.githubusercontent.com/u/76911907" width="100px;" alt=""/><br/><sub><b>Phnix</b></sub></a><br/><a href="" title="Code">💻</a><a href="" title="Documentation">📖</a></td>
+  </tr>
+</table>
