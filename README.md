@@ -65,6 +65,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/TPXP"><img src="https://avatars.githubusercontent.com/u/7191841" width="100px;" alt=""/><br/><sub><b>Thomas P.</b></sub></a><br/><a href="" title="Code">💻</a><a href="" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/MrPhnix"><img src="https://avatars.githubusercontent.com/u/76911907" width="100px;" alt=""/><br/><sub><b>Phnix</b></sub></a><br/><a href="" title="Code">💻</a><a href="" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/MrPhnix"><img src="https://avatars.githubusercontent.com/u/76911907" width="100px;" alt=""/><br/><sub><b>Phnix</b></sub></a><br/><a href="" title="Documentation">📖</a></td>
   </tr>
 </table>
