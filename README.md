@@ -6,7 +6,8 @@ A Layton Fangame built with the [Unity Engine](https://unity.com).
 
 ### Install Github Desktop
 
-Creating an ssh key is tricky for new users. So download [Github Desktop](https://desktop.github.com/), link it to your github account, it will automatically ssh for you and serve as a git repository manager.
+Creating an ssh key is tricky for new users.<br>
+So download [Github Desktop](https://desktop.github.com/), link it to your github account, it will automatically ssh for you and serve as a git repository manager.
 
 ### Download Unity Hub
 
@@ -24,11 +25,14 @@ Then, install the Unity Editor with the Unity Hub. Make sure to pick version **2
 
 If you don't have access to the main repository, fork it, create a new branch, work on it and request a pull request.
 
+### Launch the project
+
 In the Unity Hub, switch the "Projects" tab, click "Add project from disk" and point to the repository where you cloned this repository.
 
 You're now ready to open the project! Open it and have fun!
 
-Useful Unity Resources:
+### Useful Unity Resources:
+
 * The [Unity Manual](https://docs.unity3d.com/2021.3/Documentation/Manual/UnityManual.html) is the reference document. It may require some familiarity with Unity to be fully understandable, but also includes some How-To pages.
 * Unity has built [Unity Learn](https://learn.unity.com/), which gathers some tutorials about Unity. You may find them a little too beginner-oriented though. If you are already familiar with programming, give it a quick look then switch to the manual which also has some How-To pages.
 
@@ -37,6 +41,8 @@ Useful Unity Resources:
 Thank you for considering contributing to the project, we're glad you're willing to help!
 
 We recommend joining the [Discord Server](https://discord.gg/zaRXcCFYE7) to discuss your changes with the community. The `#programming` channel is where most technical discussions take place.
+
+Also, check out the [wiki](https://github.com/Layton-Fangame/Layton-Wiki).
 
 Feel free to fork this project, make contributions on your side then open a pull request targeting the `main` branch to submit your contributions.
 
