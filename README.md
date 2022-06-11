@@ -16,7 +16,7 @@ Then, install the Unity Editor with the Unity Hub. Make sure to pick version **2
 
 ### Install Visual Studio Community 2022
 
-- You can choose any IDE, but for simplicity, we will install [Visual Studio](https://visualstudio.microsoft.com/).
+- You can choose any IDE with C# support but, for simplicity, we will install [Visual Studio](https://visualstudio.microsoft.com/).
 - A window opens, named: Installation --- Visual Studio Community 2022
 - Select `.NET desktop development` and `Game development with Unity`.
 - Click on `Install`.
