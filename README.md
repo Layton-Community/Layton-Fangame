@@ -5,9 +5,11 @@ A Layton Fangame built with the [Unity Engine](https://unity.com).
 ## Getting started
 
 ### Install Github Desktop
+Already familiar with git? Just make sure LFS is installed.
 
 Creating an ssh key is tricky for new users.<br>
-So download [Github Desktop](https://desktop.github.com/), link it to your github account, it will automatically ssh for you and serve as a git repository manager.
+So download [Github Desktop](https://desktop.github.com/), link it to your github account,
+it will automatically ssh for you and serve as a git repository manager.
 
 ### Download Unity Hub
 
