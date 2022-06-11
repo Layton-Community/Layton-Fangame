@@ -23,7 +23,7 @@ Then, install the Unity Editor with the Unity Hub. Make sure to pick version **2
 
 ### Clone the repository
 
-If you don't have access to the main repository, fork it, create a new branch, work on it and request a pull request.
+If you don't have access to the main repository, fork it, create a new branch, work on it and open a pull request.
 
 ### Launch the project
 
