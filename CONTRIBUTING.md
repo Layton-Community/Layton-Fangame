@@ -1,4 +1,4 @@
-## Contributing to the project
+# Contributing to the project
 
 Thank you for considering contributing to the project, we're glad you're willing to help!
 
