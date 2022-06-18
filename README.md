@@ -4,39 +4,37 @@ A Layton Fangame built with the [Unity Engine](https://unity.com).
 
 ## Getting started
 
-Start by installing the Unity Hub if you don't have it yet: https://unity.com/download
+### Install Github Desktop
+Already familiar with git? Just make sure LFS is installed.
 
+Creating an ssh key is tricky for new users.<br>
+So download [Github Desktop](https://desktop.github.com/), link it to your github account,
+it will automatically ssh for you and serve as a git repository manager.
+
+### Download Unity Hub
+
+Start by installing the [Unity Hub](https://unity.com/download).<br>
 Then, install the Unity Editor with the Unity Hub. Make sure to pick version **2021.3.1f1**.
 
-If you don't have it yet, install [Git](https://git-scm.com/) on your machine too. Make
-sure you have [Git LFS too](https://git-lfs.github.com/). If you used the Git installer on
-Windows, it's installed by default.
+### Install Visual Studio Community 2022
 
-If this is your first time with Git or Github, [generate an SSH Key and add it to your Github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
+- You can choose any IDE with C# support but, for simplicity, we will install [Visual Studio](https://visualstudio.microsoft.com/).
+- A window opens, named: Installation --- Visual Studio Community 2022
+- Select `.NET desktop development` and `Game development with Unity`.
+- Click on `Install`.
 
-Make sure your ssh key works with github:
-```sh
-> ssh git@github.com
-PTY allocation request failed on channel 0
-Hi <user>! You've successfully authenticated, but GitHub does not provide shell access.
-Connection to github.com closed.
-```
+### Clone the repository
 
-Make sure you have setup Git LFS too:
-```
-git lfs install
-```
+If you don't have access to the main repository, fork it, create a new branch, work on it and open a pull request.
 
-Let's clone the repo now!
-```
-git clone git@github.com:Layton-Fangame/Layton-Fangame.git
-```
+### Launch the project
 
-In the Unity Hub, switch the "Projects" tab, click "Add project from disk" and point to the repository where you cloned this repo.
+In the Unity Hub, switch the "Projects" tab, click "Add project from disk" and point to the repository where you cloned this repository.
 
 You're now ready to open the project! Open it and have fun!
 
-Useful Unity Resources:
+### Useful Unity Resources:
+
 * The [Unity Manual](https://docs.unity3d.com/2021.3/Documentation/Manual/UnityManual.html) is the reference document. It may require some familiarity with Unity to be fully understandable, but also includes some How-To pages.
 * Unity has built [Unity Learn](https://learn.unity.com/), which gathers some tutorials about Unity. You may find them a little too beginner-oriented though. If you are already familiar with programming, give it a quick look then switch to the manual which also has some How-To pages.
 
@@ -56,3 +54,13 @@ Unless explicitely stated, the resources of this project use one of the followin
 All product names, trademarks and registered trademarks / copyrights are properties of their respective owners. All company, product and service names used in this project are for identification purposes only. Use of these names, trademarks / copyrights and brands does not imply endorsement.
 
 External contributors agree to license their works under the aforementionned license when contributing to this repository (opening a Pull Request for example).
+
+## Contributors ✨
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/TPXP"><img src="https://avatars.githubusercontent.com/u/7191841" width="100px;" alt=""/><br/><sub><b>Thomas P.</b></sub></a><br/><a href="" title="Code">💻</a><a href="" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/MrPhnix"><img src="https://avatars.githubusercontent.com/u/76911907" width="100px;" alt=""/><br/><sub><b>Phnix</b></sub></a><br/><a href="" title="Documentation">📖</a></td>
+  </tr>
+</table>
